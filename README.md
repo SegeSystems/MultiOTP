@@ -131,7 +131,7 @@ C: `otps/yeniHesap/` klasoru olusturun, `SpoofInfo.txt` ve `OtpInfo.reg` dosyala
 C: `MultiOTP.exe`'nin yaninda olusan `config.json` dosyasinda, **duz metin** olarak. Local makineniz disinda paylasmayin.
 
 **S: Antivirus uyari verdi.**
-C: PyInstaller ile paketlenen exe'lerde bazen false positive olur. Kaynagi inceleyebilir, kendiniz derleyebilirsiniz (ileri kullanicilar icin).
+C: PyInstaller ile paketlenen exe'lerde bazen false positive olur.
 
 ---
 
